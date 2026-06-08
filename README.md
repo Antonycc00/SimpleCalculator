@@ -1,3 +1,5 @@
+<img width="292" height="320" alt="Στιγμιότυπο οθόνης 2026-06-08 172630" src="https://github.com/user-attachments/assets/8733542c-e981-42b7-a7bd-bf929cddf401" />
+
 A minimal and easy-to-use Command Line Interface (CLI) calculator.
 
 ## Features
